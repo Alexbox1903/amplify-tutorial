@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifytutorial80abca30": {}
+      },
+      "api": {
+        "amplifytutorial": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
